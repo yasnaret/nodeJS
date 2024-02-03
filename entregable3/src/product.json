@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta Rick y Morty",
+        "description": "Camiseta de algodón con estampado de Rick y Morty.",
+        "price": 19.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "CAM-RYM-001",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Taza Portal Gun",
+        "description": "Taza con diseño de la Portal Gun de Rick.",
+        "price": 12.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "TAZA-RYM-002",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "title": "Funko Pop Rick Sánchez",
+        "description": "Figura coleccionable Funko Pop de Rick Sánchez.",
+        "price": 15.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "FUNKO-RICK-003",
+        "stock": 40
+    },
+    {
+        "id": 4,
+        "title": "Gorra Morty",
+        "description": "Gorra ajustable con la cara de Morty.",
+        "price": 9.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "GORRA-MORTY-004",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "Póster Interdimensional",
+        "description": "Póster de alta calidad con escenas interdimensionales de Rick y Morty.",
+        "price": 7.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "POSTER-RYM-005",
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "title": "Calcetines Mr. Meeseeks",
+        "description": "Par de calcetines con diseño de Mr. Meeseeks.",
+        "price": 5.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "CALC-MEESEEKS-006",
+        "stock": 60
+    },
+    {
+        "id": 7,
+        "title": "Llavero Plumbus",
+        "description": "Llavero con diseño de un Plumbus.",
+        "price": 4.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "LLAV-PLUMBUS-007",
+        "stock": 70
+    },
+    {
+        "id": 8,
+        "title": "Mochila Portal",
+        "description": "Mochila con diseño de portal de Rick y Morty.",
+        "price": 22.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "MOCH-PORTAL-008",
+        "stock": 30
+    },
+    {
+        "id": 9,
+        "title": "Figura de Acción de Morty",
+        "description": "Figura de acción articulada de Morty.",
+        "price": 14.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "FIG-MORTY-009",
+        "stock": 35
+    },
+    {
+        "id": 10,
+        "title": "Rompecabezas Dimensiones",
+        "description": "Rompecabezas de 1000 piezas con temática de dimensiones de Rick y Morty.",
+        "price": 20.99,
+        "thumbnail": "url_de_la_imagen",
+        "code": "ROMP-DIM-010",
+        "stock": 20
+    }
+]
